@@ -1,0 +1,13 @@
+Qlabel#text{
+    font:bold;
+    font-size: 12px;
+    color: Black;
+}
+
+QPushbutton#button{
+    background-color: #788a88;
+    font: bold;
+    font-size: 13px;
+    border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+}
